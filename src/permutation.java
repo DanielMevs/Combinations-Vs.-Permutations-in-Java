@@ -1,4 +1,4 @@
-/*In permutations, *order *_DOES_* matter.*
+/*In permutations, order DOES matter.
 Therefore, a hand containing a {3C, KD, 4S, 9H, QC} is not equal to
 a hand with the order {9H, 3C, QC, 4S KD} even though they contain
 the same cards.
